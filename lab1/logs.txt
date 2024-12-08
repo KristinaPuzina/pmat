@@ -1,0 +1,79 @@
+A=1 random_number.py
+A=1, B=-2 divide.py
+x=-0.5 sqrt.py
+A=-6 random_number.py
+A=-6, B=-8 divide.py
+x=0.75 sqrt.py
+A=-10 random_number.py
+A=-10, B=5 divide.py
+x=-2.0 sqrt.py
+A=-10 random_number.py
+A=-10, B=2 divide.py
+x=-5.0 sqrt.py
+A=10 random_number.py
+A=10, B=-2 divide.py
+x=-5.0 sqrt.py
+A=-4 random_number.py
+A=-4, B=8 divide.py
+x=-0.5 sqrt.py
+A=-5 random_number.py
+A=-5, B=2 divide.py
+x=-2.5 sqrt.py
+A=7 random_number.py
+A=7, B=-3 divide.py
+x=-2.3333333333333335 sqrt.py
+A=-3 random_number.py
+A=-3, B=6 divide.py
+x=-0.5 sqrt.py
+A=7 random_number.py
+A=7, B=10 divide.py
+x=0.7 sqrt.py
+A=-9 random_number.py
+A=-9, B=-4 divide.py
+x=2.25 sqrt.py
+A=7 random_number.py
+A=7, B=7 divide.py
+x=1.0 sqrt.py
+A=-6 random_number.py
+A=-6, B=5 divide.py
+x=-1.2 sqrt.py
+A=2 random_number.py
+A=2, B=8 divide.py
+x=0.25 sqrt.py
+A=-4 random_number.py
+A=-4, B=1 divide.py
+x=-4.0 sqrt.py
+A=3 random_number.py
+A=3, B=6 divide.py
+x=0.5 sqrt.py
+A=4 random_number.py
+A=4, B=-4 divide.py
+x=-1.0 sqrt.py
+A=-6 random_number.py
+A=-6, B=4 divide.py
+x=-1.5 sqrt.py
+A=3 random_number.py
+A=3, B=-4 divide.py
+x=-0.75 sqrt.py
+A=-4 random_number.py
+A=-4, B=6 divide.py
+x=-0.6666666666666666 sqrt.py
+A=-9 random_number.py
+A=1 random_number.py
+A=1, B=-8 divide.py
+x=-0.125 sqrt.py
+A=10 random_number.py
+A=10, B=-2 divide.py
+x=-5.0 sqrt.py
+A=-9 random_number.py
+A=-9, B=3 divide.py
+x=-3.0 sqrt.py
+A=2 random_number.py
+A=2, B=9 divide.py
+x=0.2222222222222222 sqrt.py
+A=4 random_number.py
+A=4, B=5 divide.py
+x=0.8 sqrt.py
+A=4 random_number.py
+A=4, B=-8 divide.py
+x=-0.5 sqrt.py

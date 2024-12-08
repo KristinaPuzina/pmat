@@ -1,12 +1,14 @@
 #!/usr/bin/python3
 import sys
 
+
 def name_verification(name):
     if not name[0].isupper():
         raise Exception(f"Name '{name}' needs to start uppercase!")
     for letter in name:
-        if letter.isalpha() == False:
+        if not letter.isalpha():
             raise Exception(f"Name '{name}' contains an invalid character!")
+
 
 if sys.stdin.isatty():
     try:
